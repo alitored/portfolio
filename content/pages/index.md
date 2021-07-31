@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Buenas, estas son algunas de nuestras colecciones digitales'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Este es nuestro catálogo de colecciones digitales, tenemos material
+      organizado por autores y temáticas, si no encontras lo que estás buscando
+      no dudes en hacernos tu encargo. 
     actions:
       - label: Let's talk
         url: /contact
