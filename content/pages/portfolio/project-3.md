@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: Batería de Evaluación Neurocognitiva
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/bateria-neuro.jpg
