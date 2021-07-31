@@ -10,7 +10,7 @@ sections:
       organizado por autores y temáticas, si no encontras lo que estás buscando
       no dudes en hacernos tu encargo. 
     actions:
-      - label: Let's talk
+      - label: Hacer Encargo
         url: /contact
         style: button
   - section_id: latest-projects
